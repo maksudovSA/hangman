@@ -1,4 +1,34 @@
-# Hangman
-Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it. 
+# Hangman
+
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [File Structure](#file-structure)
+- [License](#license)
+
+## Description
+
+The Hangman Game project is a Python-based game where players try to guess a word by suggesting letters. The aim of this project is to implement a simple console-based game while learning Python programming concepts.
+
+## Installation
+
+To run the Hangman Game project on your local machine, follow these steps:
+
+1. Clone the repository to your local system using the following command:
+   ```bash
+   git clone https://github.com/maksudovSA/hangman.git
+## Usage
+
+Once you have installed the project, you can start the game by running the hangman.py file. Follow the prompts to guess the word.
+
+## File Structure
+
+- `hangman.py`: Contains the main Hangman game logic.
+- `milestone_2.py`: Implements the first milestone of the project.
+- `README.md`: Provides information about the project.
+
+## Licence
+to be completed later
