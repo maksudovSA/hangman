@@ -1,8 +1,8 @@
 # Task 1. Step 1: Create a list of 5 favorite fruits
-favorite_fruits = ["apple", "banana", "cherry", "date", "grapefruit"]
+favorite_fruits_list = ["apple", "banana", "cherry", "date", "grapefruit"]
 
 # Step 2: Assign the list to a variable called word_list
-word_list = favorite_fruits
+word_list = favorite_fruits_list
 
 # Step 3: Print out the newly created list
 print(word_list)
