@@ -27,7 +27,8 @@ Once you have installed the project, you can start the game by running the hangm
 ## File Structure
 
 - `hangman.py`: Contains the main Hangman game logic.
-- `milestone_2.py`: Implements the first milestone of the project.
+- `milestone_2.py`: Create the variables for the game
+- `milestone_3.py`: Check if the guessed character is in the word
 - `README.md`: Provides information about the project.
 
 ## Licence
